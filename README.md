@@ -16,3 +16,8 @@ NSOperationの参考としてアップルにも公式のサンプルがある。
 引数が２つのメソッドの場合はNSObjectのperformSelector:を使用すれば事足りるけれど、それ以上の場合はNSInvocationを使用する。
 
 [iPhone アプリ研究会 NSInvocationで動的結合を体感](http://appteam.blog114.fc2.com/blog-entry-97.html)
+
+## StoreKitSample
+アプリ内で購入処理を行う場合の処理を記述
+実機でなければ実行できない
+iTunesConnectでアイテムを登録する必要がある
